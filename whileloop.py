@@ -13,5 +13,5 @@ while user_prompt:
         user_prompt=False
     else:
         print("Please enter your age in digits only")
-print(f"your age isabc {age}")
-# calculate their age -year of birth etc
+print(f"your age is {age}")
+
